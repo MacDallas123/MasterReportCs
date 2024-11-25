@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MasterReport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="structureName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Digital Making Soft</Value>
+    </Setting>
+    <Setting Name="structureLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nsimeyong - Yaoundé</Value>
+    </Setting>
+    <Setting Name="structureEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">digitalmakingsoft@gmail.com</Value>
+    </Setting>
+    <Setting Name="structurePhone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">680 70 05 87</Value>
+    </Setting>
+    <Setting Name="structureLogo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="followUpTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="structureDescription" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mini Structure proposant des solutions digitales aux organisations</Value>
+    </Setting>
+    <Setting Name="days_max" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">360</Value>
+    </Setting>
+    <Setting Name="days_current" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="date_max" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2025-09-25</Value>
+    </Setting>
+    <Setting Name="current_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2024-09-01</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
